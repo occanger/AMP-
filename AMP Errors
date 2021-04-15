@@ -1,0 +1,38 @@
+The mandatory tag 'html !doctype' is missing or incorrect.
+1 instance
+The parent tag of tag 'amp-access extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-ad extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-analytics extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-animation extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-bind extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-form extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-fx-collection extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-fx-flying-carpet extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-mustache extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-position-observer extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amp-sticky-ad extension script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'amphtml engine script' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'html' is '$root', but it can only be '!doctype'.
+1 instance
+The parent tag of tag 'link rel=canonical' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'meta' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'meta charset=utf-8' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'meta name=viewport' is 'body', but it can only be 'head'.
+1 instance
+The parent tag of tag 'style amp-custom' is 'body', but it can only be 'head'.
+2 instances
